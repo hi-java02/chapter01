@@ -36,6 +36,8 @@ public class Ex12 {
 		 
 		System.out.println("종료");
 		
+		
+		
 		sc.close();
 		
 
